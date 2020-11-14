@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4bd67e4-d8dd-4ee4-9dad-b691c3f6a585" name="Default Changelist" comment="" />
+    <list default="true" id="d4bd67e4-d8dd-4ee4-9dad-b691c3f6a585" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vongLapFor/vongLapFor.js" beforeDir="false" afterPath="$PROJECT_DIR$/vongLapFor/vongLapFor.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605282874046</updated>
       <workItem from="1605282875171" duration="300000" />
-      <workItem from="1605319229099" duration="3131000" />
+      <workItem from="1605319229099" duration="4301000" />
     </task>
     <servers />
   </component>
