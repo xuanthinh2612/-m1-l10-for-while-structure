@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4bd67e4-d8dd-4ee4-9dad-b691c3f6a585" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vongLapWhile/veTamGiac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vongLapWhile/veTamGiac.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vongLapDoWhile/vongLapDoWhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vongLapDoWhile/vongLapDoWhile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kF4By3PuiIogaWJXFlbejPxqKn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605282874046</updated>
       <workItem from="1605282875171" duration="300000" />
-      <workItem from="1605319229099" duration="11886000" />
+      <workItem from="1605319229099" duration="14092000" />
     </task>
     <servers />
   </component>
