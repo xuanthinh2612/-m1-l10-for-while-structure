@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4bd67e4-d8dd-4ee4-9dad-b691c3f6a585" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vongLapWhile/vongLapWhile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vongLapWhile/vongLapWhile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vongLapWhile/veTamGiac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vongLapWhile/veTamGiac.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605282874046</updated>
       <workItem from="1605282875171" duration="300000" />
-      <workItem from="1605319229099" duration="8422000" />
+      <workItem from="1605319229099" duration="11886000" />
     </task>
     <servers />
   </component>
