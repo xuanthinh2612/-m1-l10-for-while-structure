@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4bd67e4-d8dd-4ee4-9dad-b691c3f6a585" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vongLapDoWhile/vongLapDoWhile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vongLapDoWhile/vongLapDoWhile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vongLapLongNhau/vongLapLongNhau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vongLapLongNhau/vongLapLongNhau.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,11 +55,17 @@
       <option name="presentableId" value="Default" />
       <updated>1605282874046</updated>
       <workItem from="1605282875171" duration="300000" />
-      <workItem from="1605319229099" duration="14092000" />
+      <workItem from="1605319229099" duration="26170000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1605351009450">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1605351009450" />
   </component>
 </project>
